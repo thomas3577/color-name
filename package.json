@@ -1,8 +1,8 @@
 {
   "name": "kk-color-name",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A list of color names and it’s values",
-  "main": "index.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
